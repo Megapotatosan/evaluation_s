@@ -18,4 +18,4 @@ use ```pip3 -r install requirements.txt``` to install all possible requirements.
 use ```pip3 -r install minimum_requirments.txt``` to only install the minimum if you don't need the extra functionality as listed above.
 
 ## Usage
-use ```python run.py`` under the demo directory
+use ```python run.py``` under the demo directory
